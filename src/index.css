@@ -1,0 +1,6 @@
+.side-stick {
+    width: 5px;
+    height: 20px; /* Adjust as needed */
+    background-color: red; /* Can be dynamically set with inline styles */
+    margin-right: 10px; /* Space from other elements */
+  }
